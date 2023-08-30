@@ -26,6 +26,5 @@ for i in range(m):
     else:
         if check(a,b)==1:
             print('yes')
-
         else:
             print('no')

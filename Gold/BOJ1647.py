@@ -29,5 +29,4 @@ for i in range(m):
     if cnt==n-1:  # 마을을 두 개로 분리하기 위해서 제일 비싼 마을 쪼개기
         cost-=lst[i][2]
         break
-
 print(cost)
